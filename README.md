@@ -36,4 +36,4 @@ I am Abdreimov Akmal 🙋‍♂️, a Android Developer & Figma.
 
 ![gif](https://github.com/ONVETI/ONVETI/raw/main/dino.gif)
 
-![ONVETI's Github stats](https://github-readme-stats.vercel.app/api?username=onveti&show_icons=true&theme=default)
+![ONVETI's Github stats](https://github-readme-stats.vercel.app/api?username=AAkmalDev&show_icons=true&theme=default)
