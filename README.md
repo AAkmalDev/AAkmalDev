@@ -1,8 +1,6 @@
 <!--
 **AAkmalDev/AAkmalDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![img](https://github.com/ONVETI/ONVETI/raw/main/onvetiforgithub.jpg)
-
 # Hello there! 👋🏻
 
 I am Abdreimov Akmal 🙋‍♂️, a Android Developer & Figma.
