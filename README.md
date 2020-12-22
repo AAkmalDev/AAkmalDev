@@ -5,7 +5,7 @@
 
 # Hello there! 👋🏻
 
-I am Quvonchbek Yangiboyev 🙋‍♂️, a Android Developer & Figma, Adobe XD Designer.
+I am Abdreimov Akmal 🙋‍♂️, a Android Developer & Figma.
 
 ## Connect with Me 🤝🏻
 
